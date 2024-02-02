@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm SAHIL KUMAR</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/sahil70180/sahil70180/banner.png"> </div>
-<!-- <div align="center"> <img src="https://github.com/sahil70180/sahil70180/blob/master/banner.png"> </div> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil70180&label=Profile%20views&color=0e75b6&style=flat" alt="sahil70180" /> </p>
+<div align="center"> <img src="https://github.com/sahil70180/sahil70180/blob/master/banner.png"> </div>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil70180&label=Profile%20views&color=0e75b6&style=flat" alt="sahil70180" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
