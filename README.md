@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SAHIL KUMAR</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/sahil70180/sahil70180/main/banner-3.png"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/sahil70180/sahil70180/banner-3.png"> </div>
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil70180&label=Profile%20views&color=0e75b6&style=flat" alt="sahil70180" /> </p>
