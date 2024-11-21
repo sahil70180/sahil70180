@@ -4,11 +4,11 @@
 <h3 align="center">A passionate Software developer from India</h3>
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Nextjs and React Native**
 
 - 💬 Ask me about anything **I will be more happy to help**
 
-- 📫 How to reach me **sahilkumarhp20@gmail.com**
+- 📫 How to reach me **sahilkumar.connect@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
